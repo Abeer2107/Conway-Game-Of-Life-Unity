@@ -1,4 +1,4 @@
-# Conway Game Of Life
+# Conway's Game Of Life
 
 ### Unity Version: 2019.4.28f1
 ### Explaination: 
