@@ -12,7 +12,7 @@ https://home.adelphi.edu/~stemkoski/mathematrix/life.html
 <li>Any dead cell with exactly 3 live neighbours becomes a <i>live cell</i>, as if by reproduction.</li>
 
 ## Samples:
-### Oscillator:
+### Oscillator/Blinker:
 <img src = "Samples/Sample1.gif" width= 50% />
 
 ### Glider:
